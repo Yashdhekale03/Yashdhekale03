@@ -35,13 +35,7 @@
 ![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashdhekale03&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashdhekale03&layout=compact&theme=radical)
 
----
 
-### 🎯 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/Yashdhekale03/count.svg)
-
-
----
 
 ### ✍️ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
